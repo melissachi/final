@@ -15,3 +15,5 @@ npm start
 ```
 
 For educational purposes only.
+
+firebase site ->  https://buyflix-final-bb71c.firebaseapp.com
